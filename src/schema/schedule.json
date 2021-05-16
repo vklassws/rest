@@ -1,0 +1,15 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$comment": "GET",
+	"type": "object",
+	"properties": {
+		"week": {
+			"type": [
+				"number",
+				"null"
+			]
+		}
+	},
+	"required": [],
+	"additionalProperties": false
+}
