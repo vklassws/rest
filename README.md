@@ -1,2 +1,3 @@
-# rest
-Rest server for core
+# Rest
+
+**HTTP Rest APIs for @vws/core**
